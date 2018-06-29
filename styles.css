@@ -1,0 +1,33 @@
+body{
+  background-color:red;
+  font-family:arial, helvetica, georgia;
+  margin:10px 20px 10px 20px;
+
+}
+h1{
+  color:white;
+  font-size: 50px;
+  text-align:center;
+}
+h2{
+  color:white;
+  font-size: 30px
+
+}
+p, li{
+  color: white;
+  font-size: 25px;
+}
+#header{
+
+  border: 6px solid black;
+  padding: 20px;
+  font-weight : bold
+}
+#heady{
+  outline: 10px dashed gold;
+}
+.bru:hover{
+  -webkit-transform:scaleX(-1);
+  transform:scaleX(-1);
+}
